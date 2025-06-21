@@ -163,8 +163,21 @@ const yeisonBetancur = {
   <table> 
     <tr> 
       <td align="center"> <a href="https://ybetancurr4002.github.io/coming-soon/" target="_blank"> <img src="https://images.pexels.com/photos/39396/hourglass-time-hours-sand-39396.jpeg" alt="Pomodoro Timer - Temporizador para gestión de tiempo" width="250" style="border-radius:10px;"/> <br /> <strong>⏳ Pomodoro Timer</strong> </a> <p style="font-size: 12px;">App web para gestionar tareas con herramientas como temporizadores integradas.</p> 
+        <p><strong>Stack:</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </p>
       </td> 
       <td align="center"> <a href="https://ybetancurr4002.github.io/coming-soon/" target="_blank"> <img src="https://www.lobbyfix.com/wp-content/uploads/2020/12/businessman-planning-events-deadlines-agenda_74855-6274.jpg" alt="Sistema de Citas - Gestión de eventos y agendas" width="250" style="border-radius:10px;"/> <br /> <strong>📅 Sistema de Citas</strong> </a> <p style="font-size: 12px;">App web para gestionar eventos y agendar citas de diferentes índole - Integraciones multi servicios.</p> 
+        <p><strong>Stack:</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </p>
       </td> 
     </tr> 
   </table> 
