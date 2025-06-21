@@ -161,8 +161,8 @@ const yeisonBetancur = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeisonBetancur&repo=casino-management-system&theme=tokyonight)](https://github.com/YeisonBetancur/casino-management-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeisonBetancur&repo=microservices-architecture&theme=tokyonight)](https://github.com/YeisonBetancur/microservices-architecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeisonBetancur&repo=casino-management-system&theme=tokyonight)]([https://github.com/YeisonBetancur/casino-management-system](https://ybetancurr4002.github.io/coming-soon/))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeisonBetancur&repo=microservices-architecture&theme=tokyonight)]([https://github.com/YeisonBetancur/microservices-architecture](https://ybetancurr4002.github.io/coming-soon/))
 
 </div>
 
