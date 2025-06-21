@@ -23,9 +23,9 @@ const yeisonBetancur = {
     location: "Medellín, Colombia 🇨🇴",
     role: "Fullstack Developer",
     experience: "3+ años",
-    passion: ["Backend Architecture", "Microservices", "Cloud Computing"],
+    passion: ["Fullstack developer", "Dotnet + node.js", "Cloud Computing"],
     currentFocus: "Arquitecturas escalables y optimización de rendimiento",
-    lifePhilosophy: "El aprendizaje continuo es la clave del éxito tecnológico"
+    lifePhilosophy: "Aprendizaje y crecimiento (físico, mental y emcional) continuo"
 };
 ```
 
@@ -46,7 +46,6 @@ const yeisonBetancur = {
 ### **Frontend**
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </p>
@@ -84,6 +83,8 @@ const yeisonBetancur = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeisonBetancur&theme=tokyonight" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YeisonBetancur&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 
 ---
