@@ -161,7 +161,7 @@ const yeisonBetancur = {
 
 <div align="center">
   <a href="https://ybetancurr4002.github.io/coming-soon/"> 
-    <img src="https://es.vecteezy.com/system/resources/previews/1/1932356-nontoxic-file-for-personal-and-commercial-use--no-attribution-requires-.jpeg"  
+    <img src="https://images.pexels.com/photos/39396/hourglass-time-hours-sand-39396.jpeg"  
          alt="Pomodoro Timer - Temporizador para gestión de tiempo"
          width="300"/>
   </a>
