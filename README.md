@@ -81,12 +81,6 @@ const yeisonBetancur = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonBetancur&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeisonBetancur&theme=tokyonight" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YeisonBetancur&theme=tokyonight" alt="GitHub Stats"/>
-</div>
-
 ---
 
 ## 💼 Experiencia Profesional
@@ -174,19 +168,6 @@ const yeisonBetancur = {
 
 ---
 
-## 📊 Métricas de Contribución
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeisonBetancur&theme=tokyonight" alt="Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YeisonBetancur&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YeisonBetancur&theme=tokyonight" alt="Most Commit Language"/>
-</div>
-
----
-
 ## 🌟 Filosofía de Desarrollo
 
 ```javascript
@@ -203,7 +184,7 @@ class DeveloperPhilosophy {
     }
     
     getNextGoal() {
-        return "Dominar arquitecturas cloud-native y DevOps avanzado";
+        return "Dominar tecnologías cloud e integrar de manera profesional herramientas de IA al flujo de desarrollo";
     }
 }
 
@@ -231,18 +212,10 @@ console.log(yeison.motto); // "La tecnología evoluciona, la pasión por aprende
   </a>
 </p>
 
-**💡 "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."**
-
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YeisonBetancur&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  
-  **⭐ ¡Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios!**
-  
 </div>
