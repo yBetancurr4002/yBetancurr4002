@@ -160,12 +160,22 @@ const yeisonBetancur = {
 ## 🏆 Proyectos Destacados
 
 <div align="center">
-
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=YeisonBetancur&repo=casino-management-system&theme=tokyonight](https://ybetancurr4002.github.io/coming-soon/))]([https://github.com/YeisonBetancur/casino-management-system](https://ybetancurr4002.github.io/coming-soon/))
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=YeisonBetancur&repo=microservices-architecture&theme=tokyonight](https://ybetancurr4002.github.io/coming-soon/))]([https://github.com/YeisonBetancur/microservices-architecture](https://ybetancurr4002.github.io/coming-soon/))
-
+  <a href="https://ybetancurr4002.github.io/coming-soon/"> 
+    <img src="https://es.vecteezy.com/system/resources/previews/1/1932356-nontoxic-file-for-personal-and-commercial-use--no-attribution-requires-.jpeg"  
+         alt="Pomodoro Timer - Temporizador para gestión de tiempo"
+         width="300"/>
+  </a>
 </div>
 
+<br />
+
+<div align="center">
+  <a href="https://ybetancurr4002.github.io/coming-soon/"> 
+    <img src="https://www.lobbyfix.com/wp-content/uploads/2020/12/businessman-planning-events-deadlines-agenda_74855-6274.jpg"  
+         alt="Sistema de Citas - Gestión de eventos y agendas"
+         width="300"/>
+  </a>
+</div>
 ---
 
 ## 🌟 Filosofía de Desarrollo
