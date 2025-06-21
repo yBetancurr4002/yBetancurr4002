@@ -182,6 +182,7 @@ const yeisonBetancur = {
     </tr> 
   </table> 
 </div>
+
 ---
 
 ## 🌟 Filosofía de Desarrollo
