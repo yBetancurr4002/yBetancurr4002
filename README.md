@@ -159,23 +159,7 @@ const yeisonBetancur = {
 
 ## 🏆 Proyectos Destacados
 
-<div align="center">
-  <a href="https://ybetancurr4002.github.io/coming-soon/"> 
-    <img src="https://images.pexels.com/photos/39396/hourglass-time-hours-sand-39396.jpeg"  
-         alt="Pomodoro Timer - Temporizador para gestión de tiempo"
-         width="300"/>
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://ybetancurr4002.github.io/coming-soon/"> 
-    <img src="https://www.lobbyfix.com/wp-content/uploads/2020/12/businessman-planning-events-deadlines-agenda_74855-6274.jpg"  
-         alt="Sistema de Citas - Gestión de eventos y agendas"
-         width="300"/>
-  </a>
-</div>
+<div align="center"> <table> <tr> <td align="center"> <a href="https://ybetancurr4002.github.io/coming-soon/" target="_blank"> <img src="https://images.pexels.com/photos/39396/hourglass-time-hours-sand-39396.jpeg" alt="Pomodoro Timer - Temporizador para gestión de tiempo" width="250" style="border-radius:10px;"/> <br /> <strong>⏳ Pomodoro Timer</strong> </a> <p style="font-size: 12px;">Temporizador para gestión de tiempo basado en la técnica Pomodoro.</p> </td> <td align="center"> <a href="https://ybetancurr4002.github.io/coming-soon/" target="_blank"> <img src="https://www.lobbyfix.com/wp-content/uploads/2020/12/businessman-planning-events-deadlines-agenda_74855-6274.jpg" alt="Sistema de Citas - Gestión de eventos y agendas" width="250" style="border-radius:10px;"/> <br /> <strong>📅 Sistema de Citas</strong> </a> <p style="font-size: 12px;">Aplicación web para gestionar eventos y agendar reuniones.</p> </td> </tr> </table> </div>
 ---
 
 ## 🌟 Filosofía de Desarrollo
