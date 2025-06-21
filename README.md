@@ -22,7 +22,7 @@
 const yeisonBetancur = {
     location: "Medellín, Colombia 🇨🇴",
     role: "Fullstack Developer",
-    experience: "3+ años",
+    experience: "2+ años",
     passion: ["Fullstack developer", "Dotnet + node.js", "Cloud Computing"],
     currentFocus: "Arquitecturas escalables y optimización de rendimiento",
     lifePhilosophy: "Aprendizaje y crecimiento (físico, mental y emcional) continuo"
